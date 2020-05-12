@@ -1,7 +1,5 @@
 .marg {
     margin-top: 70px;
-    margin-left: 200px;
-    margin-right: 200px;
     background-color: #fff;
     left: 100px;
     right: 100px;
@@ -91,7 +89,8 @@ header {
    
     background-color: aquamarine;
     border-radius: 50px;
-    
+    width: 60vw;
+
     
     
 }
