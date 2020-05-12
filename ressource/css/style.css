@@ -200,7 +200,7 @@ header {
     background-color: aquamarine;
     border: 5px solid #ef86b7;
     border-radius: 10px;
-    width: 42vw
+    width: vw
     
 }
 .btn-primary {
@@ -217,11 +217,20 @@ header {
 .chois{
     margin: 10px 0 0 0;
 }
+
+
 .photof img{
-   width: 5vw;
+    max-width: 90px;
+   width: 20vw;
     margin: 2px;
+    
+}
+.photof{
+    
+    width: 12vw;
 }
 .photof p{
+    font-size: min(1vw + 5px);
     text-align: center;
 }
 .email {
